@@ -13,7 +13,7 @@ function Inc() {
 
   return (
     <div>
-        <MovieIcon fontSize="large" />
+        
         <TextField
             className={styles.textfield}
             type="text"
